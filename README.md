@@ -1,5 +1,5 @@
 # Digital Touch
-## Soujatya Sarkar, Tarun Sharma, Prof. Rohit Saluja
+### Soujatya Sarkar, Tarun Sharma, Prof. Rohit Saluja
 
 Official Repository of Digital Touch Project @ IIT Mandi.
 
