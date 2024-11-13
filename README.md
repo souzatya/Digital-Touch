@@ -1,6 +1,8 @@
 # Digital Touch
 ### Soujatya Sarkar, Tarun Sharma, Prof. Rohit Saluja
 
+
+### Introduction
 Official Repository of Digital Touch Project @ IIT Mandi.
 
 ### Data and Checkpoints
