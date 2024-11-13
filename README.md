@@ -1,5 +1,5 @@
 # Digital Touch
-### Soujatya Sarkar, Tarun Sharma, Prof. Rohit Saluja
+## Soujatya Sarkar, Tarun Sharma, Prof. Rohit Saluja
 
 
 ### Introduction
